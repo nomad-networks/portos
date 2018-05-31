@@ -1,0 +1,2 @@
+# portos
+Manjaro configuration recommendations
