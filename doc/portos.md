@@ -63,10 +63,3 @@ Every other functionality is only accessible with the underlying PM.
 
 
 ## Support
-
-
-## Night light
-
-Default color temperature of 4000K is too much for my eyes. For me it's better at 5000.
-
-With `dconf-editor` set `org.gnome.settings-daemon.plugins.color night-light-temperature 5000`.
