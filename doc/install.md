@@ -67,3 +67,10 @@ Go to the [lesspass firefox addon](https://github.com/robbyrussell/oh-my-zsh) we
 ## Install uBlock Origin Firefox addon
 
 Go to the [uBlock Origin firefox addon](https://github.com/robbyrussell/oh-my-zsh) webpage and install it.
+
+
+## Night light
+
+Default color temperature of 4000K is too much for my eyes. For me it's better at 5000.
+
+With `dconf-editor` set `org.gnome.settings-daemon.plugins.color night-light-temperature 5000`.
