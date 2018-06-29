@@ -8,7 +8,7 @@ You can download it from [manjaro.org](https://manjaro.org/get-manjaro/).
 
 ### Connect to the Internet
 
-On the top left corner click on any of the icons. From the menu select the top menu (`Wifi not connected.`) and from the pull down menu click on the `Select Network` menu point. Select the desired wifi network, and type the wifi password.
+On the top left corner click on any of the icons. From the menu select the top menu (`Wifi not connected.`) and from the pull down menu click on the `Select Network` option. Select the desired wifi network, and type the wifi password.
 
 ### Partitioning
 
@@ -42,7 +42,7 @@ In a terminal type `sudo pacman -Syu gnome-shell-extensions` . After installatio
 
 You can enable or disable it in `Gnome Tweaks` .
 
-From the firefox menu select the `Customize` menu point and remove the Gnome Shell icon from the Firefox toolbar.
+From the firefox menu select the `Customize` option and remove the Gnome Shell icon from the Firefox toolbar.
 
 ## Install zsh and oh-my-zsh
 
