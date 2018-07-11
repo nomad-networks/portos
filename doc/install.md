@@ -70,3 +70,7 @@ With `dconf-editor` set `org.gnome.settings-daemon.plugins.color night-light-tem
 ## Add international keyboard layout
 
 In `Settings/Region & Language` use the add method, but don't forget to enlarge the window, otherwise you won't see the necessary options.
+
+## Hide terminal menu on startup
+
+See the option in `Preferences/General`.
