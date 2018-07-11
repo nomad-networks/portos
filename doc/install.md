@@ -4,6 +4,10 @@
 
 You can download it from [manjaro.org](https://manjaro.org/get-manjaro/).
 
+## Write to USB stick
+
+Use Etcher to flash the iso.
+
 ## Install manjaro
 
 ### Connect to the Internet
@@ -74,3 +78,13 @@ In `Settings/Region & Language` use the add method, but don't forget to enlarge 
 ## Hide terminal menu on startup
 
 See the option in `Preferences/General`.
+
+## Workspaces
+
+### Make workspaces span displays
+
+See option in `Tweaks/Workspaces`.
+
+### Make app switcher only show windows in current workspaces
+
+With `dconf-editor` set `org.gnome.shell.app-switcher.current-workspace-only` to true.
