@@ -6,7 +6,7 @@ You can download it from [manjaro.org](https://manjaro.org/get-manjaro/).
 
 ## Write to USB stick
 
-Use Etcher to flash the iso.
+Use Imagewriter to flash the iso.
 
 ## Install manjaro
 
