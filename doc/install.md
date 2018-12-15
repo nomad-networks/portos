@@ -81,11 +81,11 @@ See the option in `Preferences/General`.
 
 ## Keyboard shortcuts for dock items
 
-Dash to Dock extension must be enabled.
-In Dash to Dock settings enable Intelligent autohide.
-In Dash to Dock settings untick Panel mode: extend to screen edge.
-In Intelligent autohide settings disable Autohide.
-In Intelligent autohide settings disable Dodge windows.
+In extensions, enable Dash to Dock.
+In Dash to Dock settings, enable Intelligent autohide.
+In Dash to Dock settings, untick Panel mode: extend to screen edge.
+In Intelligent autohide settings, disable Autohide.
+In Intelligent autohide settings, disable Dodge windows.
 
 
 ## Workspaces
