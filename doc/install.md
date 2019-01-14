@@ -63,7 +63,7 @@ Go to the [lesspass firefox addon](https://github.com/robbyrussell/oh-my-zsh) we
 
 ## Install uBlock Origin Firefox addon
 
-Go to the [uBlock Origin firefox addon](https://github.com/robbyrussell/oh-my-zsh) webpage and install it.
+Go to the [uBlock Origin firefox addon](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) webpage and install it.
 
 ## Night light
 
