@@ -55,7 +55,15 @@ sudo pacman -Syu zsh git
 chsh -s /bin/zsh
 ```
 
-Log out and log back in. Run a terminal, then go to the [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) webpage and follow the installation instructions there. Both `curl` and `wget` should be installed on your machine already.
+Log out and log back in. Run a terminal, then go to the [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) webpage and follow the installation instructions there. Both `curl` and `wget` should be installed on your machine already, but it is already installed if you followed instructions.
+
+In `~/.zshrc` set `ZSH_THEME="candy"`.
+
+## Gnome Terminal
+
+Hide terminal menu on startup. See the option in `Preferences/General`.
+
+Set color theme to *'Tango'* and check the *'Show bold text in bright colors'* toggle.
 
 ## Install the lesspass Firefox addon
 
@@ -75,13 +83,9 @@ With `dconf-editor` set `org.gnome.settings-daemon.plugins.color night-light-tem
 
 In `Settings/Region & Language` use the add method, but don't forget to enlarge the window, otherwise you won't see the necessary options.
 
-## Hide terminal menu on startup
-
-See the option in `Preferences/General`.
-
 ## Keyboard shortcuts for dock items
 
-1. In extensions, enable Dash to Dock. 
+1. In extensions, enable Dash to Dock.
 1. In Dash to Dock settings, enable Intelligent autohide.
 1. In Dash to Dock settings, untick Panel mode: extend to screen edge.
 1. In Intelligent autohide settings, disable Autohide.
